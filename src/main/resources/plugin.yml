@@ -1,0 +1,4 @@
+name: UhcRun
+version: ${project.version}
+main: mc.endorianetwork.uhcrun.UhcRun
+authors: [hugob147, TinouHD]
