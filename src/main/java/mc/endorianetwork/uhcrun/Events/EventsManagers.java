@@ -17,5 +17,6 @@ public class EventsManagers {
         pm.registerEvents(new UHCSkullRegen(), pl);
         pm.registerEvents(new UHCBlocksDrops(), pl);
 
+
     }
 }
